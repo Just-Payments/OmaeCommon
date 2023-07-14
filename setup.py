@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="omae-common-lib-pkg",
-    version="0.0.12",
+    version="0.0.14",
     author="JusticePayments",
     author_email="just-admin@justpayments.co.kr",
     description="JusticePayments common lib",

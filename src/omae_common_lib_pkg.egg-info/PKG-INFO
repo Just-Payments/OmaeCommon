@@ -1,12 +1,12 @@
 Metadata-Version: 2.1
 Name: omae-common-lib-pkg
-Version: 0.0.12
+Version: 0.0.14
 Summary: JusticePayments common lib
-Home-page: https://github.com/Just-Payments/common-lib
+Home-page: https://github.com/Just-Payments/OmaeCommon
 Author: JusticePayments
 Author-email: just-admin@justpayments.co.kr
 License: MIT
-Project-URL: Bug Tracker, https://github.com/Just-Payments/common-lib/issues
+Project-URL: Bug Tracker, https://github.com/Just-Payments/OmaeCommon/issues
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: OS Independent
@@ -16,4 +16,4 @@ License-File: LICENSE.txt
 
 # Common Utilities for Omae Project
 
-- 오매 프로젝트에서 사용하는 공통 유틸리티
+- 오매 프로젝트에서 사용하는 공통 유틸리티를 저장할 예정임
