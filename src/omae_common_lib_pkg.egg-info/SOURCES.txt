@@ -5,6 +5,7 @@ setup.py
 src/omae_common/__init__.py
 src/omae_common/db.py
 src/omae_common/http.py
+src/omae_common/net.py
 src/omae_common/util.py
 src/omae_common_lib_pkg.egg-info/PKG-INFO
 src/omae_common_lib_pkg.egg-info/SOURCES.txt
