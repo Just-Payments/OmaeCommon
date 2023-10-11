@@ -39,6 +39,8 @@ def validate_buzno(input: str):
 
     if int(input[9]) == (10 - remainder):
         return True
+    elif remainder == 0 and int(input[9]) == 0:
+        return True
 
     return False
 
